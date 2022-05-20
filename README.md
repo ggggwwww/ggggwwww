@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ggggwwww
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++
-- 🌱 I'm currently learning Spring(Thymeleaf) and develope too for company task.
+- 👀 I’m interested in backend development and hacking
+- 🌱 I'm currently learning Spring, JPA, AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I recently re-learned java(12hours course) to understand Android studio.
+- I recently be learning Spring tech
 
 <!---
 ggggwwww/ggggwwww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
